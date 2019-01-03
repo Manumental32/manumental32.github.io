@@ -1,7 +1,7 @@
 {
   "name": "my-app",
   "version": "0.1.0",
-  "homepage": "https://manumental32.github.io/myapp",
+  "homepage": "https://manumental32.github.io/reactMyApp",
   "private": true,
   "dependencies": {
     "react": "^16.7.0",
